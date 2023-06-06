@@ -5,10 +5,10 @@
 ## 🙋‍♂️ About Me:
 
 - 🎓 Pursuing **BE** in **Computer Science** and **MSc.** in **Biological Science**
-- 🏫 Currently in my **3rd Year** at **BITS Pilani, Pilani Campus**
+- 🏫 Currently in my **4rd Year** at **BITS Pilani, Pilani Campus**
 - 🌱 Trying various things like Flutter Android Development, Frontend Web Development and a bit of Designing
 - 🚀 Looking forward to contribute in Open Source Projects
-- 🥅 2022 Goals: Learn more about Marketing, design & Networking
+- 🥅 2023 Goals: Learn more about Marketing, design & Networking
 - ⚡ Fun fact: I love to draw, paint and play piano
 - 👯 I’m looking to collaborate with other content creators
 <br/> 
